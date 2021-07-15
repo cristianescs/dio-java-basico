@@ -1,11 +1,8 @@
-package exercicios;
+package exercicio1;
 
 public class Carro {
 
-    /* EXERCÍCIO
-    * Criar uma classe Carro. Nessa classe deverá ter a quantidade de pessoas que estão dentro do carro e também é preciso
-    * que tenha uma forma de adicionar e remover pessoas de dentro do carro.
-    * */
+    //Construtores
 
     public int pessoas = 0;
 

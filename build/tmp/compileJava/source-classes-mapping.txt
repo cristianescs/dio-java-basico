@@ -1,4 +1,8 @@
-exercicios/ExemploCarro.java
- exercicios.ExemploCarro
-exercicios/Carro.java
- exercicios.Carro
+exercicio1/Carro.java
+ exercicio1.Carro
+exercicio1/ExemploCarro.java
+ exercicio1.ExemploCarro
+exercicio2/Carro.java
+ exercicio2.Carro
+exercicio2/Main.java
+ exercicio2.Main
