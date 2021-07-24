@@ -6,3 +6,13 @@ exercicio2/Carro.java
  exercicio2.Carro
 exercicio2/Main.java
  exercicio2.Main
+exercicio3/Supervisor.java
+ exercicio3.Supervisor
+exercicio3/Funcionarios.java
+ exercicio3.Funcionarios
+exercicio3/Main.java
+ exercicio3.Main
+exercicio3/Atendente.java
+ exercicio3.Atendente
+exercicio3/Gerente.java
+ exercicio3.Gerente
